@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @retz20
-- 👀 I’m interested in programming, more specifically web-development🖥
 - 🌱 I’m currently learning JavaScript and have just started learning React.js⚛
 - 📫 How to reach me: mikkel.retz@gmail.com
 
