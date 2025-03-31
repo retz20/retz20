@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @retz20
-- 🌱 I’m currently learning JavaScript and have just started learning React.js⚛
+- 🌱 I’m currently studying Computer Engineering at Aarhus University
 - 📫 How to reach me: mikkel.retz@gmail.com
 
 <!---
